@@ -5,7 +5,7 @@
 #include <string>
 #include <iostream>
 
-#include "Command.h"
+#include <Command.h>
 #include "CommandGroup.h"
 #include "History.h"
 #include <assert.h>
